@@ -1,0 +1,225 @@
+{
+  "game": {
+    "players": [
+      {
+        "name": "sg",
+        "id": "13e7d574-7551-c987-a248-a26178539256",
+        "score": 0
+      }
+    ],
+    "currentTurn": 0,
+    "id": "860e9646-daf5-3c9d-35b3-15979fa89020",
+    "redPieces": [
+      {
+        "position": {
+          "x": 1,
+          "y": 0
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 3,
+          "y": 0
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 5,
+          "y": 0
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 7,
+          "y": 0
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 1
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 2,
+          "y": 1
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 4,
+          "y": 1
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 6,
+          "y": 1
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 1,
+          "y": 2
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 3,
+          "y": 2
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 5,
+          "y": 2
+        },
+        "isKing": false,
+        "isRed": true
+      },
+      {
+        "position": {
+          "x": 7,
+          "y": 2
+        },
+        "isKing": false,
+        "isRed": true
+      }
+    ],
+    "blackPieces": [
+      {
+        "position": {
+          "x": 0,
+          "y": 5
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 2,
+          "y": 5
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 4,
+          "y": 5
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 6,
+          "y": 5
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 1,
+          "y": 6
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 3,
+          "y": 6
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 5,
+          "y": 6
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 7,
+          "y": 6
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 7
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 2,
+          "y": 7
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 4,
+          "y": 7
+        },
+        "isKing": false,
+        "isRed": false
+      },
+      {
+        "position": {
+          "x": 6,
+          "y": 7
+        },
+        "isKing": false,
+        "isRed": false
+      }
+    ]
+  },
+  "serverInformation": {
+    "serverName": "actionhero API",
+    "apiVersion": "0.0.1",
+    "requestDuration": 4,
+    "currentTime": 1466388944998
+  },
+  "requesterInformation": {
+    "id": "50b71a2344a99c9b85b7e45290e96441a1399d6a-71ddc65a-4a4c-4856-8efd-6f1034af0a00",
+    "fingerprint": "50b71a2344a99c9b85b7e45290e96441a1399d6a",
+    "remoteIP": "127.0.0.1",
+    "receivedParams": {
+      "gameId": "860e9646-daf5-3c9d-35b3-15979fa89020",
+      "action": "getGame",
+      "apiVersion": 1
+    }
+  }
+}
